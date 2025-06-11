@@ -1,4 +1,4 @@
-# 🖐️ Magic Fingers Control
+# 🖐️ Magic Fingers
 
 <p align="center">
   <img src="assets/logo.png" alt="Hand Gesture Control Logo" width="180" align="right">
